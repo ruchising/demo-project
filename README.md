@@ -1,3 +1,4 @@
 # demo-project
-first git Repository
-AUthor-Ruchi Singh
+first git Repository.
+<br>
+Author-Ruchi Singh
